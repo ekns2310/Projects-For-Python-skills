@@ -9,7 +9,7 @@
 
 
 import pandas as pd
-data = pd.read_csv("C:/Users/ekns0/Downloads/medical_data.csv")
+data = pd.read_csv("C:/Users/ekns1/Downloads/medical_data.csv")
 data.info()
 
 
